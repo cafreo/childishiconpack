@@ -1,25 +1,24 @@
 {
 	"wallpapers": [
 		{
-		"name": "dryquidity",
-		"author": "Puppy",
-		"url": "https://raw.githubusercontent.com/whosthispuppy/chldshiconpack/master/dryquidity.jpg",
-		"thumbnail": "https://raw.githubusercontent.com/whosthispuppy/chldshiconpack/master/dryquidity_thumbnail.jpg",
-		"downloadable": true,
-		"size": 581,
-		"dimensions": "2560 x 1440 px",
-		"copyright": "CreativeCommons Attribution-ShareALike"
-		}
-		
+			"name": "dryquidity",
+			"author": "Puppy",
+			"url": "https://raw.githubusercontent.com/whosthispuppy/chldshiconpack/master/dryquidity.jpg",
+			"thumbnail": "https://raw.githubusercontent.com/whosthispuppy/chldshiconpack/master/dryquidity_thumbnail.jpg",
+			"downloadable": true,
+			"size": 581,
+			"dimensions": "2560 x 1440 px",
+			"copyright": "CreativeCommons Attribution-ShareALike"
+		},
 		{
-		"name": "canvas",
-		"author": "Puppy",
-		"url": "https://raw.githubusercontent.com/whosthispuppy/chldshiconpack/master/canvas.jpg",
-		"thumbnail": "https://raw.githubusercontent.com/whosthispuppy/chldshiconpack/master/canvas_thumbnail.jpg",
-		"downloadable": true,
-		"size": 474,
-		"dimensions": "1920 x 1080 px",
-		"copyright": "CreativeCommons Attribution-ShareALike"
+			"name": "canvas",
+			"author": "Puppy",
+			"url": "https://raw.githubusercontent.com/whosthispuppy/chldshiconpack/master/canvas.jpg",
+			"thumbnail": "https://raw.githubusercontent.com/whosthispuppy/chldshiconpack/master/canvas_thumbnail.jpg",
+			"downloadable": true,
+			"size": 474,
+			"dimensions": "1920 x 1080 px",
+			"copyright": "CreativeCommons Attribution-ShareALike"
 		}
 	]
 }

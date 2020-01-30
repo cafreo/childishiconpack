@@ -1,40 +1,11 @@
 {
-   "wallpapers": [
-      {
-         "author": "Puppy",
-         "url": "https://raw.githubusercontent.com/whosthispuppy/chldshiconpack/master/dryquidity.jpg",
-         "name": "dryquidity",
-         "thumbnail": "https://raw.githubusercontent.com/whosthispuppy/chldshiconpack/master/dryquidity_thumb.jpg"
-      },
-      {
-         "author": "Tom Wellington",
-         "url": "https://github.com/afollestad/polar_json/raw/master/buildings.jpg",
-         "name": "Heads Up",
-         "thumbnail": "https://github.com/afollestad/polar_json/raw/master/buildings_thumb.jpg"
-      },
-      {
-         "author": "Tom Wellington",
-         "url": "https://github.com/afollestad/polar_json/raw/master/flamingos.jpg",
-         "name":" Flamingos",
-         "thumbnail": "https://github.com/afollestad/polar_json/raw/master/flamingos_thumb.jpg"
-      },
-      {
-         "author": "Tom Wellington",
-         "url": "https://github.com/afollestad/polar_json/raw/master/forest_one.png",
-         "name": "Forest",
-         "thumbnail": "https://github.com/afollestad/polar_json/raw/master/forest_one_thumb.jpg"
-      },
-      {
-         "author": "Tom Wellington",
-         "url": "https://github.com/afollestad/polar_json/raw/master/tree_farm.jpg",
-         "name": "Tree Farm",
-         "thumbnail": "https://github.com/afollestad/polar_json/raw/master/tree_farm_thumb.jpg"
-      },
-      {
-         "author":"Tom Wellington",
-         "url":"https://github.com/afollestad/polar_json/raw/master/tree_tops.jpg",
-         "name":"Tree Tops",
-         "thumbnail":"https://github.com/afollestad/polar_json/raw/master/tree_tops_thumb.jpg"
-      }
-   ]
+	"wallpapers": [
+		{
+			"name": "dryquidity",
+			"author": "Puppy",
+			"url": "https://i.imgur.com/YDzFksx.pngdryquidity.png",
+			"dimensions": "2560 x 1440",
+			"copyright": "Copyright ¸ 2018 Roman Okhotor. All rights reserved"
+		}
+	]
 }

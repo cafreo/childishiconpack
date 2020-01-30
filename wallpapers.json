@@ -1,5 +1,4 @@
-{
-	"wallpapers": [
+[
 		{
 			"name": "dryquidity",
 			"author": "Puppy",
@@ -20,5 +19,4 @@
 			"dimensions": "1920 x 1080 px",
 			"copyright": "CreativeCommons Attribution-ShareALike"
 		}
-	]
-}
+]

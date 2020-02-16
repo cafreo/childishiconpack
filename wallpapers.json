@@ -8,9 +8,9 @@
 			"copyright": "All Rights Reserved"
 		},
 		{
-			"name": "canvas",
+			"name": "cloud",
 			"author": "Puppy",
-			"url": "https://raw.githubusercontent.com/whosthispuppy/childishiconpack/master/canvas.jpg",
+			"url": "https://raw.githubusercontent.com/whosthispuppy/childishiconpack/master/cloud.png",
 			"dimensions": "1920 x 1080",
 			"copyright": "All Rights Reserved"
 		},
@@ -29,13 +29,6 @@
 			"copyright": "All Rights Reserved"
 		},
 		{
-			"name": "agro",
-			"author": "Puppy",
-			"url": "https://raw.githubusercontent.com/whosthispuppy/childishiconpack/master/agro.png",
-			"dimensions": "1922 x 1080",
-			"copyright": "All Rights Reserved"
-		},
-		{
 			"name": "bored",
 			"author": "Puppy",
 			"url": "https://raw.githubusercontent.com/whosthispuppy/childishiconpack/master/bored.png",
@@ -50,13 +43,6 @@
 			"copyright": "All Rights Reserved"
 		},
 		{
-			"name": "cloud",
-			"author": "Puppy",
-			"url": "https://raw.githubusercontent.com/whosthispuppy/childishiconpack/master/cloud.png",
-			"dimensions": "1920 x 1080",
-			"copyright": "All Rights Reserved"
-		},
-		{
 			"name": "convoluted",
 			"author": "Puppy",
 			"url": "https://raw.githubusercontent.com/whosthispuppy/childishiconpack/master/convoluted.png",
@@ -68,6 +54,20 @@
 			"author": "Puppy",
 			"url": "https://raw.githubusercontent.com/whosthispuppy/childishiconpack/master/delightful.png",
 			"dimensions": "801 x 801",
+			"copyright": "All Rights Reserved"
+		},
+				{
+			"name": "canvas",
+			"author": "Puppy",
+			"url": "https://raw.githubusercontent.com/whosthispuppy/childishiconpack/master/canvas.jpg",
+			"dimensions": "1920 x 1080",
+			"copyright": "All Rights Reserved"
+		},
+				{
+			"name": "agro",
+			"author": "Puppy",
+			"url": "https://raw.githubusercontent.com/whosthispuppy/childishiconpack/master/agro.png",
+			"dimensions": "1922 x 1080",
 			"copyright": "All Rights Reserved"
 		}
 	]
